@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    cout << "This is the change!";
         int sum_of_elems = 0;
         int num;
         vector<int> vec;
